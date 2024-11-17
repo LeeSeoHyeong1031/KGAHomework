@@ -57,5 +57,5 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
-Assets/20241115InputSystem/Models/Solider.fbx filter=lfs diff=lfs merge=lfs -text
+
 *.fbx filter=lfs diff=lfs merge=lfs -text
